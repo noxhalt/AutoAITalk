@@ -1,5 +1,6 @@
 ﻿#nullable enable
 using System;
+using System.Threading;
 
 namespace AutoAITalk
 {
@@ -32,6 +33,12 @@ namespace AutoAITalk
                 Console.WriteLine(e);
                 return false;
             }
+        }
+
+        public static bool WaitFor(Func<bool> func, int timeout)
+        {
+            while (func()) Thread.Sleep(timeout);
+            return true;
         }
     }
 }

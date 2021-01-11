@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AiTalkBase.cs" />
+    <Compile Include="AiVoice.cs" />
     <Compile Include="Sugar.cs" />
     <Compile Include="Voiceroid2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

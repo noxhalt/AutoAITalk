@@ -2,23 +2,19 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Users\ys319\Repo\autoaitalk\AutoAITalk\obj\Debug\Interop.UIAutomationClient.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7c5b5168_002Dc182_002D42b8_002Db452_002D4cb98ef4fca1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;And&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-    &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
-    &lt;/TestAncestor&gt;&#xD;
-  &lt;/And&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e63a9bd_002D2348_002D4917_002D8af7_002D8d86f3420540/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Voiceroid2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e63a9bd_002D2348_002D4917_002D8af7_002D8d86f3420540/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Voiceroid2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3e3af0c_002De8c0_002D4182_002Db165_002D3623e709d40d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Voiceroid2 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
 	
 	
 	
