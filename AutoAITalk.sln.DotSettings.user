@@ -2,8 +2,21 @@
 	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="C:\Users\ys319\Repo\autoaitalk\AutoAITalk\obj\Debug\Interop.UIAutomationClient.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=41c86626_002Ddcb5_002D4518_002Db863_002Dc6616f454c4d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Voiceroid2 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e63a9bd_002D2348_002D4917_002D8af7_002D8d86f3420540/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Voiceroid2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7e63a9bd_002D2348_002D4917_002D8af7_002D8d86f3420540/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Voiceroid2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.AiVoice&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=870a0b91_002D8d61_002D4432_002D84ff_002D81b7a8a0eb44/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Voiceroid2 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
@@ -12,6 +25,11 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3e3af0c_002De8c0_002D4182_002Db165_002D3623e709d40d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Voiceroid2 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Voiceroid2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a9d37fad_002D81a5_002D4c61_002D905a_002D6727d11711bd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Dev" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B5C6EFCC-8476-4395-9569-D51D9E5F35A4::.NETFramework,Version=v4.7.2::Tests.Tests.Dev&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>

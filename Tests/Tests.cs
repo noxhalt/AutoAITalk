@@ -53,5 +53,38 @@ namespace Tests
                 Console.WriteLine($"{akaneId}: 喋れんかったで…");
             }
         }
+
+        [Test]
+        public void AiVoice()
+        {
+            // 操作用インスタンス
+            var akane = new AiVoice();
+
+            // 喋ってもらうプリセット
+            const string akaneId = "琴葉 茜";
+
+            // 接続が成功したか
+            if (akane.IsAvailable() || akane.AttachWait())
+            {
+                // とりあえずなんか喋ってもらう
+                Console.WriteLine($"{akaneId}: 準備OKやで！");
+                akane.TalkWait($"{akaneId}＞準備出来たでー！");
+            }
+
+            // テキストの設定と取得をテスト
+            var message = $"{akaneId}＞テキストの設定と取得のテストやで！";
+
+            // 喋ってもらい、成功かどうかを取得
+            if (akane.TalkWait(message))
+            {
+                Console.WriteLine(akane.GetEditorText());
+                Console.WriteLine($"{akaneId}: 喋れたで！");
+                Console.WriteLine(akane.GetStatusText());
+            }
+            else
+            {
+                Console.WriteLine($"{akaneId}: 喋れんかったで…");
+            }
+        }
     }
 }
